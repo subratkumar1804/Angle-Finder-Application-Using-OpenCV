@@ -1,7 +1,7 @@
 import cv2 
 import math
 
-path = 'Resources/angle.jpg'
+path = 'Resources/angle.png'
 img = cv2.imread(path)
 
 points = []
